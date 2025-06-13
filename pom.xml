@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <dependencies> 
   <dependency>
-<groupId>io.qameta.allure</groupId>
+       <groupId>io.qameta.allure</groupId>
 <artifactId>allure-testng</artifactId>
 <version>${allure-testng-version}</version>
   </dependency>
